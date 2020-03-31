@@ -1,0 +1,16 @@
+C:\Users\wnova\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\wnova\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.deps.json
+C:\Users\wnova\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.runtimeconfig.json
+C:\Users\wnova\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.runtimeconfig.dev.json
+C:\Users\wnova\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.dll
+C:\Users\wnova\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.pdb
+C:\Users\wnova\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.csprojAssemblyReference.cache
+C:\Users\wnova\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.RazorAssemblyInfo.cache
+C:\Users\wnova\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.RazorAssemblyInfo.cs
+C:\Users\wnova\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\wnova\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.AssemblyInfo.cs
+C:\Users\wnova\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.RazorTargetAssemblyInfo.cache
+C:\Users\wnova\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.dll
+C:\Users\wnova\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.pdb
+C:\Users\wnova\source\repos\Calculadora\Calculadora\bin\Debug\netcoreapp2.1\Calculadora.xml
+C:\Users\wnova\source\repos\Calculadora\Calculadora\obj\Debug\netcoreapp2.1\Calculadora.xml

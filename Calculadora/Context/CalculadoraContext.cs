@@ -19,7 +19,7 @@ namespace Calculadora.Context
         {
             if (!optionsBuilder.IsConfigured)
             {
-                //optionsBuilder.UseSqlServer("Data Source=.\\SQLEXPRESS; initial catalog=InLock_Tarde; Integrated Security=True");
+                //optionsBuilder.UseSqlServer("Data Source=.\\SQLEXPRESS; initial catalog=Calculadora; Integrated Security=True");
             }
         }
         
